@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Sedaser-FrontEnd/static/css/main.e248db34.css",
-    "main.js": "/Sedaser-FrontEnd/static/js/main.299e7cad.js",
+    "main.js": "/Sedaser-FrontEnd/static/js/main.0c5c1f60.js",
     "index.html": "/Sedaser-FrontEnd/index.html",
     "main.e248db34.css.map": "/Sedaser-FrontEnd/static/css/main.e248db34.css.map",
-    "main.299e7cad.js.map": "/Sedaser-FrontEnd/static/js/main.299e7cad.js.map"
+    "main.0c5c1f60.js.map": "/Sedaser-FrontEnd/static/js/main.0c5c1f60.js.map"
   },
   "entrypoints": [
     "static/css/main.e248db34.css",
-    "static/js/main.299e7cad.js"
+    "static/js/main.0c5c1f60.js"
   ]
 }
